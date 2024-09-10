@@ -30,8 +30,8 @@ install.packages(c("DirichletReg", "ggplot2"))
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name.git
-    cd your-repo-name
+    git clone git@github.com:samyajoypal/HardDMM.git
+    cd harddmm
     ```
 2. Load the R script into your R environment:
     ```R
